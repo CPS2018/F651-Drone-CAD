@@ -1,5 +1,5 @@
-# CAD_drawings
-You can download these CAD drawings and 3D print it to make the drone.
+# CAD Models of F651 Drone
+You can download these CAD models and 3D print it to make the drone.
 
 If you used this code, kindly consider citing the [paper]:
 

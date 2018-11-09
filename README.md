@@ -4,7 +4,8 @@
 
 You can download these CAD models and 3D print it to make the drone.
 
-![2_3_fea](https://user-images.githubusercontent.com/2436747/48283387-a7e92a00-e45c-11e8-922d-2ca9dae2e049.png)
+The Gripper system consists of two claws as shown here.
+![2_5a_gripper](https://user-images.githubusercontent.com/2436747/48283385-a7509380-e45c-11e8-900e-4fdfcf4d2cae.png)
 
 The CAD models were also tested for FEA
 ![2_3_fea](https://user-images.githubusercontent.com/2436747/48283387-a7e92a00-e45c-11e8-922d-2ca9dae2e049.png)

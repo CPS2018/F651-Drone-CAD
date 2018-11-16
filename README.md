@@ -18,4 +18,4 @@ E. Andersson and A. Bogga, ‘Hexacopter with gripping module’, Bachelor's Dis
 [paper]: http://www.diva-portal.org/smash/get/diva2:1216528/FULLTEXT02.pdf
 
 # License
-Distributed with a GNU GENERAL PUBLIC LICENSE.
+Distributed with a BSD LICENSE.
